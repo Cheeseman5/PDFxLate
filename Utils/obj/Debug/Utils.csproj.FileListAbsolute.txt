@@ -1,0 +1,6 @@
+C:\repos\PDFxLate\Utils\bin\Debug\Utils.dll
+C:\repos\PDFxLate\Utils\bin\Debug\Utils.pdb
+C:\repos\PDFxLate\Utils\obj\Debug\Utils.csproj.AssemblyReference.cache
+C:\repos\PDFxLate\Utils\obj\Debug\Utils.csproj.CoreCompileInputs.cache
+C:\repos\PDFxLate\Utils\obj\Debug\Utils.dll
+C:\repos\PDFxLate\Utils\obj\Debug\Utils.pdb

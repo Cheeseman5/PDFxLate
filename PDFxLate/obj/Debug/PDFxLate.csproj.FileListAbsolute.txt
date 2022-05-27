@@ -1,0 +1,2 @@
+C:\repos\PDFxLate\PDFxLate\obj\Debug\PDFxLate.csproj.AssemblyReference.cache
+C:\repos\PDFxLate\PDFxLate\obj\Debug\PDFxLate.csproj.CoreCompileInputs.cache

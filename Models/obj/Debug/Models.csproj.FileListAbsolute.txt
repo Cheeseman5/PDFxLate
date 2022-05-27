@@ -1,0 +1,6 @@
+C:\repos\PDFxLate\Models\bin\Debug\Models.dll
+C:\repos\PDFxLate\Models\bin\Debug\Models.pdb
+C:\repos\PDFxLate\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+C:\repos\PDFxLate\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\repos\PDFxLate\Models\obj\Debug\Models.dll
+C:\repos\PDFxLate\Models\obj\Debug\Models.pdb
